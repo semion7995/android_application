@@ -1,0 +1,40 @@
+<resources>
+    <string name="app_name">HomeFragmentExample</string>
+
+    <string name="title_home">Home</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="STRATEGY_NAME">strategy flat</string>
+    <string name="butFullInfo">open full info</string>
+    <string name="title_activity_open_full_info">OpenFullInfoActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="description_strategy_flat">Flat strategy types. There are four main types of flat sports betting strategies:
+    Academic. The amount of the bet varies in the range of 1-3% of the bankroll. You can start betting with 3% and keep the size in case of a large number of won bets. When playing in the red, the bets change towards lower odds and smaller amounts.
+    Static flat. The amount of the bet is 1% of the bank throughout the selected distance of time.
+    Aggressive. The bet size is 2-3% of the bankroll for the entire interval.
+    Chaotic. A risky type of flat, in which 5-15% of the bank is bet on events with a coefficient of 1.55.
+    Flat strategy types. There are four main types of flat sports betting strategies:
+    Academic. The amount of the bet varies in the range of 1-3% of the bankroll. You can start betting with 3% and keep the size in case of a large number of won bets. When playing in the red, the bets change towards lower odds and smaller amounts.
+    Static flat. The amount of the bet is 1% of the bank throughout the selected distance of time.
+    Aggressive. The bet size is 2-3% of the bankroll for the entire interval.
+    Chaotic. A risky type of flat, in which 5-15% of the bank is bet on events with a coefficient of 1.55.
+    </string>
+    <string name="catching_up_strategy">Catching up strategy: big risk - big win Initially, the system was developed for casinos, but it also proved to be excellent in betting. I use catch-up to make sports bets on a variety of outcomes, and most bettors consider this system to be one of the most effective, and many bookmakers prohibit using it. Classic catch-up has the following rules: Bets are made on events with odds of 2.0. In case of losing a bet, I must double each next bet. I give an example. Let\'s say I bet $5 on the W2 outcome of a Brooklyn Nets-Chicago Bulls basketball game.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="fixed_interest_strategy">This method reminds me of a flat, but you need to determine the bet amount online. I need to calculate its size before each bet, and in flat I calculate the amount when the bankroll increases by a certain percentage. For example, I bet every time 5% of the bankroll. Let\'s say my bankroll is $50. I bet 5% of this amount - $ 2.5 on a draw in the Lazio - Sevilla match.
+Suppose that Lazio lost to Sevilla, the bet did not work. Now the size of the next forecast will be 5% of the new pot of $45 - $2.25 and so on. Advantages: With a long series of failures, my bankroll will decrease more slowly. If I make forecasts correctly, then income will increase faster. Cons: It takes me time to calculate rates. After a long series of failures, it will take many victories to return some of the money.</string>
+    <string name="martingale_method">Martingale Method Here, after each unsuccessful bet, I need to calculate the next bet so that a successful forecast can cover all monetary losses. Some betters call this system "catch-up", but this is not correct. In the catch-up, the size of the bet increases by 2 times, but here I have to calculate depending on the available odds for the outcome. The system is very risky, so I work it very carefully. I try not to drag out a series of failures because of the high probability of losing all the money. I try to make the first bet as minimal as possible. with a possible series of failures, huge sums will be required. An important point of the strategy is that if I made 7-8 bets on the team winning, and it lost all the time, then it is necessary to change the bet. In this situation, I bet on the loss of the club to make amends.</string>
+    <string name="strategy_method_of_anti_martingale">
+        Strategy method of anti-Martingale This system is opposite to the classic Martingale. Its basis is as follows - after a failure, the amount of the bet should be reduced, and after winning - increased. When I play with this strategy, losses decrease on losing streaks, and profits increase significantly on successful predictions. I propose to consider the essence of the method with an example. My bankroll is $100, so the bet amount will be 5%. I am making a prediction for the match between Atlético Madrid and Real Madrid for a draw with odds of 3.24.
+    Suppose my bet lost. Now I\'m lowering my stake to 4.5% of the new $95 bankroll. The next sports forecast I will conclude is $4.27. The main difference and advantage of the system from the classic Martingale method is that there are no risks of losing all the money. Due to the fact that the last forecast in the winning series will be the largest, and the series always end, then a significant part of my profit will disappear. The anti-Martingale method in betting is much more popular than its classic version. I believe its popularity is due to its low risk. A long series of failures will still lead to the loss of part of the pot, so predicted matches should be carefully analyzed.
+    </string>
+    <string name="d_alembert_s_strategy">
+The basis of the strategy is very similar to Martingale. Its difference is that after each unsuccessful prediction, I need to multiply the size of the subsequent bet by the lost amount. When making a successful prediction, I will be required to reduce the bet size by the amount of the winnings. It is important to remember that I am only talking about the size of the bet, and not about winning or losing. In the Martingale strategy, the main role is played by the amount of loss and gain, and in catching up, it is important to get the loss back. In this strategy, I only consider the size of the forecast itself. Often, bettors call this strategy the construction of a pyramid. Advantages: Excellent win ratio, which allows me to significantly reduce risks. I get a stable income. If 50% of all my predictions are winning, then the profit will be tangible, because. the size of the bet will offset the failures. Disadvantages: If the series of losses drags on, then I have increased risks of losing my entire bankroll. The amount of the next forecast is able to exceed the bookmaker limits. I try to choose bookmakers with high limits. There is still one way out of the situation - this is to split the bet amount into several parts and put them in different bookmakers.
+    </string>
+</resources>
