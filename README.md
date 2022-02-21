@@ -1,1 +1,1 @@
-# casino_abc
+betting strategies application
